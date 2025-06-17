@@ -1,0 +1,18 @@
+{ "runtime_modules": [
+  { "name": "auth_session_gateway", "wasm_path": "../modules/auth-session-gateway/target/wasm32-unknown-unknown/release/auth_session_gateway.wasm" },
+  { "name": "auth_session_gateway", "wasm_path": "../modules/auth-session-gateway/target/wasm32-unknown-unknown/release/deps/auth_session_gateway.wasm" },
+  { "name": "emergency_dao_lock", "wasm_path": "../modules/emergency-dao-lock/target/wasm32-unknown-unknown/release/deps/emergency_dao_lock.wasm" },
+  { "name": "emergency_dao_lock", "wasm_path": "../modules/emergency-dao-lock/target/wasm32-unknown-unknown/release/emergency_dao_lock.wasm" },
+  { "name": "identity_gatekeeper", "wasm_path": "../modules/identity-gatekeeper/target/wasm32-unknown-unknown/release/deps/identity_gatekeeper.wasm" },
+  { "name": "identity_gatekeeper", "wasm_path": "../modules/identity-gatekeeper/target/wasm32-unknown-unknown/release/identity_gatekeeper.wasm" },
+  { "name": "media_asset_store", "wasm_path": "../modules/media-asset-store/target/wasm32-unknown-unknown/release/deps/media_asset_store.wasm" },
+  { "name": "media_asset_store", "wasm_path": "../modules/media-asset-store/target/wasm32-unknown-unknown/release/media_asset_store.wasm" },
+  { "name": "module_registry", "wasm_path": "../modules/module-registry/target/wasm32-unknown-unknown/release/deps/module_registry.wasm" },
+  { "name": "module_registry", "wasm_path": "../modules/module-registry/target/wasm32-unknown-unknown/release/module_registry.wasm" },
+  { "name": "pose_score_index", "wasm_path": "../modules/pose-score-index/target/wasm32-unknown-unknown/release/deps/pose_score_index.wasm" },
+  { "name": "pose_score_index", "wasm_path": "../modules/pose-score-index/target/wasm32-unknown-unknown/release/pose_score_index.wasm" },
+  { "name": "revenue_router", "wasm_path": "../modules/revenue-router/target/wasm32-unknown-unknown/release/deps/revenue_router.wasm" },
+  { "name": "revenue_router", "wasm_path": "../modules/revenue-router/target/wasm32-unknown-unknown/release/revenue_router.wasm" },
+  { "name": "staking_manager", "wasm_path": "../modules/staking-manager/target/wasm32-unknown-unknown/release/deps/staking_manager.wasm" },
+  { "name": "staking_manager", "wasm_path": "../modules/staking-manager/target/wasm32-unknown-unknown/release/staking_manager.wasm" }
+]}
